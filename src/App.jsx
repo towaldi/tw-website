@@ -3,6 +3,8 @@ import './App.css'
 
 export default function App() {
   return (
-    <p>Hey everyone. This page is currently under construction. 👨🏻‍🔧 </p>
+    <div className='app'>
+      <p>Hey everyone. This page is currently under construction. 👨🏻‍🔧 </p>
+    </div>
   )
 }
